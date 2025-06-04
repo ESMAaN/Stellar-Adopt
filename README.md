@@ -1,5 +1,9 @@
 # Stellar-Adopt
 
+<p align="center">
+  <img src="assets/adopt.png" width="300" alt="StellarAdopt">
+</p>
+
 ## About me:
 - name: Esma Şen  
 - Final-year Software Engineering student at Maltepe University   
